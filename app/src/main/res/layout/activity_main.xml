@@ -8,6 +8,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/image" />
+        <-- jqkklslk!>
 
     <Button android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/getLocation" android:text="HELP!"/>
 
